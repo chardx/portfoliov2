@@ -33,7 +33,7 @@ const Home = ({ pageInfo, experiences, projects, skills, socials }: Props) => {
       "
       >
         <Head>
-          00-7
+          
           <title>{pageInfo?.name} - Portfolio</title>
         </Head>
 
